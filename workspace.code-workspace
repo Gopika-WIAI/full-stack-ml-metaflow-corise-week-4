@@ -12,7 +12,7 @@
     "editor.minimap.enabled": false,
     "breadcrumbs.enabled": false,
     "terminal.integrated.tabs.showActiveTerminal": "singleTerminal",
-    "terminal.integrated.tabs.enabled": false,
+    "terminal.integrated.tabs.enabled": true,
     "workbench.colorTheme": "theme-ob-light",
     "files.exclude": {
       "**/.git": true,
